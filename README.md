@@ -163,12 +163,12 @@ END:VCALENDAR
 
 ## 🔮 Future Roadmap
 
-### Phase 1: Current Implementation *(You are here)*
+### Phase 1: Current Implementation 
 - ✅ IMAP/SMTP integration
 - ✅ Basic NLP processing  
 - ✅ .ics file generation
 
-### Phase 2: API Migration *(When approvals come through)*
+### Phase 2: API Migration 
 - 🔄 **Gmail API integration** - Faster, more reliable
 - 🔄 **Google Calendar API** - Direct calendar creation
 - 🔄 **Enhanced security** - OAuth 2.0 implementation
